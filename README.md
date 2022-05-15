@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utran0612
 - 👀 I’m interested in Web Development and App development (iOS/Android)
 - 🌱 I’m currently learning to buil iOS and Android apps
-- 💞️ I’m looking for software engineering and/or web dev internships!
+- 💞️ I’m looking to software engineering and/or web dev internships!
 - 📫 Please reach me at 2001ttunk@gmai.com or [my Linkedin](https://www.linkedin.com/in/utran/)
 
 <!---
