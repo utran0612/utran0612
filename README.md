@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @utran0612
-- 👀 I’m interested in Web Development and App development (iOS/Android)
-- 🌱 I’m currently learning to buil iOS and Android apps
-- 💞️ I’m looking to software engineering and/or web dev internships!
-- 📫 Please reach me at 2001ttunk@gmai.com or [my Linkedin](https://www.linkedin.com/in/utran/)
+- 👀 I’m interested in Software Engineering 
+- 🌱 I have some experience working in Frontend Development using Javascript and React. Would love to be in Backend as well!
+- 💞️ I’m looking to Frontend/ Fullstack software engineering and/or web dev internships!
+- 📫 Please reach me at utran@conncolll.edu or [my Linkedin](https://www.linkedin.com/in/utran/)
 
 <!---
 utran0612/utran0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
