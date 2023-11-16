@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utran0612
-- 👀 I’m interested in Software Engineering 
-- 🌱 I have some experience working in Frontend Development using Javascript and React. Would love to be in Backend as well!
-- 💞️ I’m looking to Frontend/ Fullstack software engineering and/or web dev internships!
+- 👀 I’m interested in building high-impact, user-oriented Software  
+- 🌱 I have experience in full-stack development with Javascript, React, Golang and MongoDB!
+- 💞️ I’m looking for full-time software engineer positions in 2024!
 - 📫 Please reach me at utran@conncolll.edu or [my Linkedin](https://www.linkedin.com/in/utran/)
 
 <!---
